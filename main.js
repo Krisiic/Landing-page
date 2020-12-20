@@ -1,0 +1,1 @@
+alert('Welcome to my website! This project is an attempt to recreate Traversy media landing page project, so i hope you like it :)')
